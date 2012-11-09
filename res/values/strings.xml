@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">PhotoMixer</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="title_title">Welcome to PHOTO MIXER!</string>
+    <string name="button_go_gallery">Start New.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="list_items">ListItems</string>
+    <string name="pick2gallery_message">Select GroundImage and OverlayImage!</string>
+    
+    <string name="menu_save">SAVE</string>
+    <string name="menu_clean">CLEAN</string>
+    <string name="menu_finish">FINISH</string>
+    
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_pick2_gallery">Pick2GalleryActivity</string>
+    <string name="title_activity_image_pro_by_button">ImageProByButtonActivity</string>
+
+</resources>
